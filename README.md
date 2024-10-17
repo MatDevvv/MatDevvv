@@ -1,25 +1,25 @@
-# Olá! Eu sou o MatDevvv 👋
+# Hello! I’m MatDevvv 👋
 
-Sou Desenvolvedor Full Stack, especializado em soluções web, criação de APIs, manutenção e monitoramento de sistemas para empresas e clientes individuais.Aqui estão algumas estatísticas sobre meu trabalho no GitHub:
+I am a Full Stack Developer, specializing in web solutions, API creation, system maintenance, and monitoring for businesses and individual clients. Here are some statistics about my work on GitHub:
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Statistics
 
 ![MatDevvv's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatDevvv&show_icons=true&theme=tokyonight)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MatDevvv&layout=compact&theme=tokyonight)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatDevvv&layout=compact&theme=tokyonight)
 
-## 🚀 Minhas Habilidades
+## 🚀 My Skills
 
-- **Linguagens**: HTML, CSS, JavaScript, Python,
-- **Banco de dados**: Mysql,Nosql
-- **Ferramentas e Tecnologias**: React, Node.js, Django, Bootstrap, Scss, Tailwind, Git.
-- **Metodologias**: Scrum, Testes Automatizados.
+- **Languages**: HTML, CSS, JavaScript, Python
+- **Databases**: MySQL, NoSQL
+- **Tools and Technologies**: React, Node.js, Django, Bootstrap, SCSS, Tailwind, Git
+- **Methodologies**: Scrum, Automated Testing
 
 ## 🌐 Links
 
-- [Meu Portfólio](https://portifoliomatdev.netlify.app)
+- [My Portfolio](https://portifoliomatdev.netlify.app)
 - [LinkedIn](https://www.linkedin.com/in/matttdev/)
 - [GitHub](https://github.com/MatDevvv)
 
 ---
 
-✨ _"Aprendizado constante é o caminho para a evolução."_ ✨
+✨ _"Constant learning is the path to evolution."_ ✨
