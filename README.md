@@ -1,38 +1,56 @@
-# Matttdev
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Mateus!;" />
+</h1>
 
-Meu nome é Mateus, Sou Desenvolvedor Full Stack, especializado em soluções web, criação de APIs, manutenção e monitoramento de sistemas para empresas e clientes individuais. Aqui estão algumas estatísticas sobre meu trabalho no GitHub:
+<p align="center">
+  <strong>Desenvolvedor Full Stack</strong> <br>
+  Especializado em soluções web, criação de APIs, manutenção e monitoramento de sistemas.
+</p>
 
+---
 
 ### Conecte-se comigo
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:matttdev@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/matttdev/)
+<p align="center">
+  <a href="mailto:matttdev@outlook.com">
+    <img src="https://img.shields.io/badge/-Email-E94D5F?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height="35">
+  </a>
+  <a href="https://www.linkedin.com/in/matttdev/">
+    <img src="https://img.shields.io/badge/-LinkedIn-30A3DC?style=for-the-badge&logo=linkedin&logoColor=white" height="35">
+  </a>
+  <a href="https://discord.com/users/mt_ninja">
+    <img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="35">
+  </a>
+</p>
 
-### Habilidades
+---
 
-**Linguagens de Programação:**
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=E94D5F)
+### 🚀 Minhas Habilidades
 
-**Ferramentas de Estilo:**
-![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
-![SCSS](https://img.shields.io/badge/SCSS-000?style=for-the-badge&logo=sass&logoColor=30A3DC)
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="60" title="JavaScript">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="60" title="TypeScript">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="60" title="HTML5">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="60" title="CSS3">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="60" title="React">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" height="60" title="Node.js">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" alt="AdonisJS" height="60" title="AdonisJS">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="60" title="MySQL">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SCSS" height="60" title="SCSS">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" height="60" title="Tailwind CSS">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="60" title="Git">
+</p>
 
-**Controle de Versão e Banco de Dados:**
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)
-![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=30A3DC)
+---
 
-**Frameworks e Bibliotecas:**
-![NodeJs](https://img.shields.io/badge/NodeJs-000?style=for-the-badge&logo=nodedotjs&logoColor=E94D5F)
-![ReactJs](https://img.shields.io/badge/ReactJs-000?style=for-the-badge&logo=react&logoColor=30A3DC)
-![AdonisJs](https://img.shields.io/badge/AdonisJs-000?style=for-the-badge&logo=adonisjs&logoColor=E94D5F)
+### 📊 Estatísticas do GitHub
 
-### GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MatDevvv&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="GitHub Stats">
+  <br>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MatDevvv&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="Top Langs">
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatDevvv&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MatDevvv&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
 
 ✨ _"Aprendizado constante é o caminho para a evolução."_ ✨
-
-
