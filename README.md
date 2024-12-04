@@ -54,7 +54,7 @@
 
 <p align="center" style="display: flex; justify-content: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=MatDevvv&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatDevvv&theme=dark&border=30A3DC&background=00000000&ring=30A3DC&fire=E94D5F" alt="Streak Stats">
+
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatDevvv&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="Top Langs">
